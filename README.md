@@ -4,7 +4,8 @@ This repository contains an implementation of a Flight Arrival and Departure Man
 **Features:**
 Add Flight: Users can input details such as flight number, destination, arrival time, and departure time to add a new flight to the system.
 Remove Flight: Existing flights can be removed from the system using the flight number.
-**Display Flights: **The system provides functionality to display all flights stored in the system, showing flight details including flight number, destination, arrival time, and departure time.
+
+**Display Flights:** The system provides functionality to display all flights stored in the system, showing flight details including flight number, destination, arrival time, and departure time.
 **How to Use:**
 Clone the repository to your local machine.
 Compile the source code using a C++ compiler.
